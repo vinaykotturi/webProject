@@ -9,4 +9,4 @@ printer
 monitor
 
 front door
-
+tree
