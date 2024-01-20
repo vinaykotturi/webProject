@@ -7,3 +7,6 @@ write something you know
 
 printer
 monitor
+
+front door
+
