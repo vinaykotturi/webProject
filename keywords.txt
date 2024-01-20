@@ -4,3 +4,6 @@ aws
 aws api
 git
 write something you know
+
+printer
+monitor
